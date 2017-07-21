@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD9851
+D DDS/DAC Synthesizer, CMOS, 180 MHz
+K DDS
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD9851.pdf
+$ENDCMP
+#
+$CMP LTC1744
+D ADC, 14 bit, 50Msps
+K ADC pipeline
+F http://cds.linear.com/docs/en/datasheet/1744f.pdf
+$ENDCMP
+#
+$CMP VDD_ADC
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library
